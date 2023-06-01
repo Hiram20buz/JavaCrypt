@@ -4,4 +4,5 @@ https://www.geeksforgeeks.org/java-8/
 
 # How to compile java code
 javac Main.java
+
 java Main
